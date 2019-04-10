@@ -1,0 +1,58 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://diyhistory.org/shibusawa/omeka/iiif/1/manifest",
+	"@type": "sc:Manifest",
+	"label": "設計図の制作",
+	"thumbnail": {
+		"@id": "https://db.ebiki.jp/img/osanae_000.png",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"@id": "https://diyhistory.org/shibusawa/omeka/iiif-img/2",
+			"profile": "http://iiif.io/api/image/2/level2.json"
+		}
+	},
+	"license": "http://www.example.org/license.html",
+	"attribution": "Provided by Example Organization",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "設計図の制作"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "https://diyhistory.org/shibusawa/omeka/iiif/1/sequence/normal",
+			"@type": "sc:Sequence",
+			"label": "Current Page Order",
+			"viewingDirection": "left-to-right",
+			"viewingHint": "non-paged",
+			"canvases": [
+				{
+					"@id": "https://diyhistory.org/shibusawa/omeka/iiif/1/canvas/p1",
+					"@type": "sc:Canvas",
+					"label": "[1]",
+					"thumbnail": {
+						"@id": "https://db.ebiki.jp/img/osanae_000.png"
+					},
+					"width": 1254,
+					"height": 1829,
+					"images": [
+						{
+							"@id": "https://diyhistory.org/shibusawa/omeka/iiif/1/annotation/p0001-image",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://diyhistory.org/shibusawa/omeka/files/original/9d47d4af27f3491adae2bc5c0c54dca682b4fdfa.png",
+								"@type": "dctypes:Image",
+								"format": "image/png",
+								"width": 1254,
+								"height": 1829
+							},
+							"on": "https://diyhistory.org/shibusawa/omeka/iiif/1/canvas/p1"
+						}
+					]
+				}
+			]
+		}
+	]
+}

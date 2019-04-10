@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="supplied" resp="#Shibusawa_Foundation">設計図の制作</title>
+                <author><persName xml:id="utagawa_2nd" ref="http://viaf.org/viaf/4039336">歌川国輝
+                        （二代）</persName></author>
+                <respStmt>
+                    <resp>テキストデータの作成</resp>
+                    <orgName xml:id="Shibusawa_Foundation">公益財団法人渋沢栄一記念財団</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>テキストデータの監修</resp>
+                    <persName>西和夫</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI化</resp>
+                    <orgName>公益財団法人渋沢栄一記念財団</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI化</resp>
+                    <orgName>Tokyo Digital History</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI化</resp>
+                    <orgName>永崎研宣</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>公益財団法人渋沢栄一記念財団</publisher>
+                <pubPlace>日本、東京</pubPlace>
+                <date when="2018">2018</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/"> Creative
+                        Commons Attribution-NonCommercial 3.0 Unported License （CC BY-NC 3.0）
+                    </licence>
+                </availability>
+                <address>
+                    <addrLine>郵便番号114-0024</addrLine>
+                    <addrLine>東京都北区西ヶ原2丁目16番1号</addrLine>
+                    <addrLine>公益財団法人渋沢栄一記念財団</addrLine>
+                    <addrLine>電話：03-3910-0029</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>日本</country>
+                        <region type="county">東京</region>
+                        <settlement>北区</settlement>
+                        <institution>公益財団法人渋沢栄一記念財団</institution>
+                        <repository>渋沢史料館</repository>
+                        <collection>衣喰住之内家職幼絵解之図</collection>
+                        <msName resp="#Shibusawa_Foundation">実業史錦絵</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title type="main">衣喰住之内家職幼絵解之</title>
+                            <title type="sub" resp="#Shibusawa_Foundation">図設計図の制作</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc material="paper">
+                                <extent>錦絵一枚 <dimensions type="leaves" unit="cm">
+                                        <height>35</height>
+                                        <width>24</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance> 公益財団法人渋沢栄一記念財団により収集された（2004年頃）。
+                            シリーズ「衣喰住之内家職幼絵解之図」として合計20枚の錦絵が存在する。 </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>本テキストデータは、実業史錦絵プロジェクト（2004年～）により作成された。 このプロジェクトは、実業のさまざまな場面を描いた錦絵に関する情報を集約し、
+                    日本の経済社会の近代化、産業化について視覚的な面からも研究できるように、 資源化することを目的としたものである。
+                    錦絵は写真が普及していなかったころの視覚的な伝達手段として用いられ、 明治期には、社会の様子を伝える錦絵がいろいろな形で出版された。
+                    そのうち、ものづくり、産物、職業など、産業シーンを描いたものを、 本プロジェクトでは「実業史錦絵」と呼んでいる。</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>旧字は、常用漢字（文化庁「常用漢字表」（平成22年内閣告示第2号））に変換した。</p>
+                </normalization>
+                <interpretation>
+                    <p>テキストの現代語訳及び図の解説は、実業史錦絵プロジェクト（2004年～）により、 西和夫氏の監修のもと作成された。</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="manifest.json">
+            <surface>
+                <graphic
+                    url="https://db.ebiki.jp/img/osanae_000.png"
+                    n="https://diyhistory.org/shibusawa/omeka/iiif/1/canvas/p1"/>
+                <zone xml:id="zone_u1j_3wh_p2b" lry="717" lrx="983" uly="150" ulx="912"/>
+                <zone xml:id="zone_v2m_jwh_p2b" lry="714" lrx="896" uly="151" ulx="818"/>
+                <zone xml:id="zone_pzq_kwh_p2b" lry="712" lrx="806" uly="156" ulx="723"/>
+                <zone xml:id="zone_wfs_lwh_p2b" lry="712" lrx="715" uly="154" ulx="632"/>
+                <zone xml:id="zone_x21_nwh_p2b" lry="714" lrx="625" uly="152" ulx="540"/>
+                <zone xml:id="zone_zjf_4wh_p2b" lry="712" lrx="527" uly="160" ulx="447"/>
+                <zone xml:id="zone_rv1_twh_p2b" lry="710" lrx="436" uly="163" ulx="355"/>
+                <zone xml:id="zone_nvy_twh_p2b" lry="714" lrx="359" uly="165" ulx="261"/>
+                <zone xml:id="zone_u4v_5wh_p2b" lry="717" lrx="247" uly="165" ulx="172"/>
+                <zone xml:id="zone_yg1_hzh_p2b" lry="1829" lrx="508" uly="1590" ulx="235"/>
+                <zone xml:id="zone_nfq_nzh_p2b" lry="1164" lrx="165" uly="703" ulx="39"/>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text xml:lang="ja">
+        <front>
+            <head>衣喰住之内家職幼絵解ノ図</head>
+            <head>第一</head>
+        </front>
+        <body>
+            <div>
+                <p xml:id="aaa">
+                    <lb facs="#zone_u1j_3wh_p2b"/>
+                    <span type="ruby"><span type="rb">凡</span><span type="rt"><span type="rp"
+                                >（</span>およそ<span type="rp">）</span></span></span>
+                    <span type="ruby"><span type="rb">世</span><span type="rt"><span type="rp"
+                                >（</span>よ<span type="rp">）</span></span></span>の <span type="ruby"
+                            ><span type="rb">中</span><span type="rt"><span type="rp">（</span>なか<span
+                                type="rp">）</span></span></span>に <span type="ruby"><span type="rb"
+                            >衣喰住</span><span type="rt"><span type="rp">（</span>いしよくぢう<span type="rp"
+                                >）</span></span></span>の三ツ <l facs="#zone_v2m_jwh_p2b"> は<span
+                            type="ruby"><span type="rb">身</span><span type="rt"><span type="rp"
+                                    >（</span>み<span type="rp">）</span></span></span>をたもつ <span
+                            type="ruby"><span type="rb">道具</span><span type="rt"><span type="rp"
+                                    >（</span>どうぐ<span type="rp">）</span></span></span>にて <span
+                            type="ruby"><span type="rb">其一</span><span type="rt"><span type="rp"
+                                    >（</span>そのひ<span type="rp">）</span></span></span>とつ </l>
+                    <l facs="#zone_pzq_kwh_p2b"> の<span type="ruby"><span type="rb">住</span><span
+                                type="rt"><span type="rp">（</span>ぢう<span type="rp"
+                            >）</span></span></span>乃 <span type="ruby"><span type="rb">字</span><span
+                                type="rt"><span type="rp">（</span>じ<span type="rp"
+                            >）</span></span></span>ハ人々の <span type="ruby"><span type="rb"
+                                >住居</span><span type="rt"><span type="rp">（</span>すまゐ<span type="rp"
+                                    >）</span></span></span>する <span type="ruby"><span type="rb"
+                                >家</span><span type="rt"><span type="rp">（</span>いへ<span type="rp"
+                                    >）</span></span></span>の </l>
+                    <l facs="#zone_wfs_lwh_p2b">
+                        <span type="ruby"><span type="rb">事</span><span type="rt"><span type="rp"
+                                    >（</span>こと<span type="rp">）</span></span></span>なり <span
+                            type="ruby"><span type="rb">先</span><span type="rt"><span type="rp"
+                                    >（</span>まづ<span type="rp">）</span></span></span>
+                        <span type="ruby"><span type="rb">其家</span><span type="rt"><span type="rp"
+                                    >（</span>そのいへ<span type="rp">）</span></span></span>を <span
+                            type="ruby"><span type="rb">作</span><span type="rt"><span type="rp"
+                                    >（</span>つく<span type="rp">）</span></span></span>らんとおもふ </l>
+                    <l facs="#zone_x21_nwh_p2b"> にハ<span type="ruby"><span type="rb">能</span><span
+                                type="rt"><span type="rp">（</span>よく<span type="rp"
+                            >）</span></span></span>
+                        <span type="ruby"><span type="rb">普請</span><span type="rt"><span type="rp"
+                                    >（</span>ふしん<span type="rp">）</span></span></span>になれたる人と <span
+                            type="ruby"><span type="rb">住居</span><span type="rt"><span type="rp"
+                                    >（</span>すまい<span type="rp">）</span></span></span>
+                    </l>
+                    <l facs="#zone_zjf_4wh_p2b">
+                        <span type="ruby"><span type="rb">勝手</span><span type="rt"><span type="rp"
+                                    >（</span>かつて<span type="rp">）</span></span></span>のよきよふに <span
+                            type="ruby"><span type="rb">相談</span><span type="rt"><span type="rp"
+                                    >（</span>そうだん<span type="rp">）</span></span></span>をして </l>
+                    <l facs="#zone_rv1_twh_p2b">
+                        <span type="ruby"><span type="rb">何畳敷</span><span type="rt"><span type="rp"
+                                    >（</span>なんじやうじき<span type="rp">）</span></span></span> 何畳敷といふ
+                            <span type="ruby"><span type="rb">間</span><span type="rt"><span
+                                    type="rp">（</span>ま<span type="rp">）</span></span></span>どりを
+                            <span type="ruby"><span type="rb">極</span><span type="rt"><span
+                                    type="rp">（</span>きハ<span type="rp">）</span></span></span>め </l>
+                    <l facs="#zone_nvy_twh_p2b">
+                        <span type="ruby"><span type="rb">其上</span><span type="rt"><span type="rp"
+                                    >（</span>そのうへ<span type="rp">）</span></span></span>
+                        <span type="ruby"><span type="rb">大工</span><span type="rt"><span type="rp"
+                                    >（</span>だいく<span type="rp">）</span></span></span>を <span
+                            type="ruby"><span type="rb">呼</span><span type="rt"><span type="rp"
+                                    >（</span>よ<span type="rp">）</span></span></span>んで <span
+                            type="ruby"><span type="rb">普請</span><span type="rt"><span type="rp"
+                                    >（</span>ふしん<span type="rp">）</span></span></span>の <span
+                            type="ruby"><span type="rb">絵図</span><span type="rt"><span type="rp"
+                                    >（</span>ゑづ<span type="rp">）</span></span></span>に </l>
+                    <l facs="#zone_u4v_5wh_p2b">
+                        <span type="ruby"><span type="rb">仕様</span><span type="rt"><span type="rp"
+                                    >（</span>しやう<span type="rp">）</span></span></span>といふ <span
+                            type="ruby"><span type="rb">拵</span><span type="rt"><span type="rp"
+                                    >（</span>こしらへ<span type="rp">）</span></span></span>やうの <span
+                            type="ruby"><span type="rb">書附</span><span type="rt"><span type="rp"
+                                    >（</span>かきつけ<span type="rp">）</span></span></span>をさせる <span
+                            type="ruby"><span type="rb">図</span><span type="rt"><span type="rp"
+                                    >（</span>づ<span type="rp">）</span></span></span>
+                    </l>
+                </p>
+                <ab corresp="#aaa">
+                    <reg resp="#Shibusawa_Foundation"
+                        >この世の中で衣・食・住の三つは身を保つ道具であって、その一つの住という字は人々の住居する家のことである。
+                        その家を作ろうとする場合は、住みやすい家にするように普請（家作り）に慣れた人とよく相談をし、
+                        何畳敷何畳敷という部屋の間取りを決め、その上で大工を呼んで設計図（平面図）と仕様書とを作らせる。 これは、その様子を示す図である。 </reg>
+                </ab>
+            </div>
+            <div facs="#zone_yg1_hzh_p2b">
+                <p>
+                    <l><span type="ruby"><span type="rb">普請十分</span><span type="rt"><span type="rp"
+                                    >（</span>ふしんじうぶ<span type="rp">）</span></span></span>一</l>
+                    <l><span type="ruby"><span type="rb">割付絵図</span><span type="rt"><span type="rp"
+                                    >（</span>わりつけゑづ<span type="rp">）</span></span></span></l>
+                    <l>
+                        <span type="ruby"><span type="rb">引</span><span type="rt"><span type="rp"
+                                    >（</span>ひき<span type="rp">）</span></span></span>
+                        <span type="ruby"><span type="rb">仕様帳</span><span type="rt"><span type="rp"
+                                    >（</span>しやうてう<span type="rp">）</span></span></span>
+                    </l>
+                    <l><span type="ruby"><span type="rb">認</span><span type="rt"><span type="rp"
+                                    >（</span>したため<span type="rp">）</span></span></span>るのところ</l>
+                </p>
+                <ab><reg resp="#Shibusawa_Foundation">十分の一の設計図（間取り図）を作り、また、仕様帳を書いている様子。</reg></ab>
+            </div>
+            <div facs="#zone_nfq_nzh_p2b">
+                <signed>応需<persName key="#utagawa_2nd">曜斎国輝</persName>画</signed>
+            </div>
+            <figure>
+                <figDesc resp="#Shibusawa_Foundation"> 図の解説：住宅を作る揚合の心がまえをまず最初に示し、 続いて設計図を作る様子を描く。
+                    「十分一」（十分の一）の「割付絵図」を引き、 仕様帳を作るとしているが、 要するにまず設計図と仕様帳とを作るのが出発点だとしているだけであって、
+                    設計図は必ずしも十分の一とは限らないし、この絵を描いた人が設計図を作る 場面を実見したとはとても思えない。筆を使ってフリーハンドで線を引くはずはない。
+                    すでに江戸時代から墨指（すみさし）を使い、物指（ものさし）を使って直線を引く手法は確立しているからである。 </figDesc>
+            </figure>
+        </body>
+    </text>
+</TEI>
