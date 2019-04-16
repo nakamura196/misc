@@ -42,7 +42,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://diyhistory.org/shibusawa/omeka/files/original/9d47d4af27f3491adae2bc5c0c54dca682b4fdfa.png",
+								"@id": "https://db.ebiki.jp/img/osanae_000.png",
 								"@type": "dctypes:Image",
 								"format": "image/png",
 								"width": 1254,
